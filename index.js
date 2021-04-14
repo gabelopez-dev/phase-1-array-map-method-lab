@@ -1,3 +1,4 @@
+(titleCased()).to.have.all.members 
 const tutorials = [
   'what does the this keyword mean?',
   'What is the Constructor OO pattern?',
